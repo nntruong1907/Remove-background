@@ -13,3 +13,8 @@ This is a background removal project using the `rembg` package
 ## Recommended IDE Setup
 
 [Jupyter Notebook](https://jupyter.org/)
+
+<h2 align="center">
+
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjVlMDg5YzU2NjI2ZmE3ZDBkY2Q5YmFmY2E1NGU0MzVlNjVjMDhhYSZjdD1n/1csqDAudd6DKSZkiP1/giphy.gif" alt="Coder GIF" width="500">
+</h2> 
